@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LinearLayoutApp</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="send_message">Show Button</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name_here">Enter your name here:</string>
+</resources>
